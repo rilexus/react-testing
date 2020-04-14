@@ -38,4 +38,4 @@ const actions = (dispatch) => ({
   addToList: (elem) =>
     dispatch({ type: ACTION_TYPES.addToList, payload: { elem } }),
 });
-export const List = connect(props, actions)(_List);
+export const ConenctedList = connect(props, actions)(_List);

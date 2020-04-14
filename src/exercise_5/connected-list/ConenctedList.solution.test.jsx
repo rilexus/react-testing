@@ -1,6 +1,6 @@
 import React from "react";
 import { render } from "@testing-library/react";
-import { List } from "./List";
+import { ConenctedList } from "./ConenctedList";
 import { Provider } from "react-redux";
 import { store } from "../redux/store";
 import { createStore } from "redux";
@@ -24,7 +24,7 @@ describe("List", function () {
   it('should display "add to list" string', function () {
     const { getByText } = render(
       <Provider store={store}>
-        <List />
+        <ConenctedList />
       </Provider>
     );
     const element = getByText("add to list");
@@ -32,14 +32,14 @@ describe("List", function () {
   });
 
   it('should render element with role="button"', function () {
-    const { getByRole } = renderWithProvider(<List />);
+    const { getByRole } = renderWithProvider(<ConenctedList />);
     const button = getByRole("button");
     expect(button).toBeDefined();
   });
 
   it("should render a list values", function () {
     const list = [{ value: "val1" }, { value: "val2" }];
-    const { getByText } = renderWithProvider(<List />, {
+    const { getByText } = renderWithProvider(<ConenctedList />, {
       initialState: { list },
     });
     const val1 = getByText(list[0].value).innerHTML;
@@ -50,7 +50,7 @@ describe("List", function () {
   });
 
   it("should add new list element on button click", function () {
-    // const { getAllByRole } = renderWithProvider(<List />);
+    // const { getAllByRole } = renderWithProvider(<ConenctedList />);
     expect(true).toBe(true);
   });
 });
