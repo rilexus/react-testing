@@ -8,8 +8,8 @@ const Exercise2 = () => {
       <p>
         Lorem ipsum dolor sit amet,
         <span>
-          <a href="http://www.google.de">to google</a>
-        </span>{" "}
+          <a href="http://www.google.de">here</a>
+        </span>
         consectetur adipisicing elit. Cupiditate deleniti eaque et fuga itaque,
         labore laborum molestiae odio quaerat quisquam sit, temporibus vel
         veniam, voluptates voluptatibus! Aliquid aperiam deserunt dolores?
@@ -17,16 +17,16 @@ const Exercise2 = () => {
       <p>
         Lorem ipsum dolor sit amet, consectetur adipisicing elit.{" "}
         <span>
-          <a href="http://www.yahoo.de">yahoo</a>
-        </span>{" "}
+          <a href="http://www.yahoo.de">here</a>
+        </span>
         Ad amet consequatur dolores est eum excepturi explicabo harum hic iste,
         minus mollitia nemo numquam officia officiis perferendis provident
         quaerat quia velit?
       </p>
       Lorem ipsum dolor sit amet,
       <span>
-        <a href="http://www.yandex.ru">yandex</a>
-      </span>{" "}
+        <a href="http://www.yandex.ru">here</a>
+      </span>
       consectetur adipisicing elit. Aspernatur beatae, consequuntur cupiditate
       debitis dicta distinctio nihil soluta sunt. Alias consequatur cupiditate
       debitis inventore mollitia nobis nulla praesentium reprehenderit sapiente

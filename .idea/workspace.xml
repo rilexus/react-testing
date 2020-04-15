@@ -2,35 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1dcc5bca-cf04-4bbb-a07d-b2859ac23f56" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/api/api.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/button/Button.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/button/Button.test.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hooks/useFetchUsers/useFetchUsers.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hooks/useFetchUsers/useFetchUsers.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hooks/useInputBinding/useInputBinding.exercise.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hooks/useInputBinding/useInputBinding.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hooks/useInputBinding/useInputBinding.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/input/ControlledInput.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/input/ControlledInput.test.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/input/input.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/input/input.test.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/list/List.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/list/List.test.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/redux/rootReducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/redux/store.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/users/HookedUser.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/users/HookedUser.test.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/users/Users.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/users/Users.test.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/react-testing.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/react-testing.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/button/Button.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/button/Button.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/button/Button.test.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/button/Button.test.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercise_1/Link1.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercise_1/Link1.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercise_1/Link1.solution.test.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercise_1/Link1.solution.test.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercise_1/Link1.test.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercise_1/Link1.test.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercise_2/Link2.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercise_2/Link2.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercise_2/Link2.test.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercise_2/Link2.test.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercise_3/input.test.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercise_3/input.test.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercise_4/ControlledInput.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercise_4/ControlledInput.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercise_5/connected-list/ConenctedList.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercise_5/connected-list/ConenctedList.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercise_5/connected-list/ConenctedList.solution.test.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercise_5/connected-list/ConenctedList.solution.test.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercise_5/connected-list/ConenctedList.test.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercise_5/connected-list/ConenctedList.test.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercise_5/simple-list/SimpleList.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercise_5/simple-list/SimpleList.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercise_5/simple-list/SimpleList.test.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercise_5/simple-list/SimpleList.test.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +41,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jsx.switch.disabled" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/exercise_5" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -65,7 +54,16 @@
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/exercise_5" />
+      <recent name="$PROJECT_DIR$/src/exercise_3" />
+      <recent name="$PROJECT_DIR$/src/exercise_2" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/exercise_5/connected-list" />
+      <recent name="$PROJECT_DIR$/src/exercise_3" />
+      <recent name="$PROJECT_DIR$/src/exercise_4" />
       <recent name="$PROJECT_DIR$/src/hooks/useFetchUsers" />
       <recent name="$PROJECT_DIR$/src/hooks" />
     </key>
@@ -112,6 +110,9 @@
       <workItem from="1586714065177" duration="5745000" />
       <workItem from="1586779695720" duration="191000" />
       <workItem from="1586779904225" duration="1306000" />
+      <workItem from="1586849733937" duration="5508000" />
+      <workItem from="1586941201243" duration="11000" />
+      <workItem from="1586942972376" duration="6200000" />
     </task>
     <servers />
   </component>
@@ -123,29 +124,29 @@
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="546" y="345" key="EditFileWatcherDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1586691197516" />
-    <state width="896" height="341" key="GridCell.Tab.0.bottom" timestamp="1586781775993">
+    <state width="1792" height="277" key="GridCell.Tab.0.bottom" timestamp="1586945475441">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state width="1792" height="341" key="GridCell.Tab.0.bottom/0.0.1792.1070@0.0.1792.1070" timestamp="1586779864719" />
-    <state width="896" height="341" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1586781775993" />
+    <state width="1792" height="277" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1586945475441" />
     <state width="896" height="232" key="GridCell.Tab.0.bottom/0.23.1792.1047@0.23.1792.1047" timestamp="1586691663257" />
-    <state width="896" height="341" key="GridCell.Tab.0.center" timestamp="1586781775992">
+    <state width="1792" height="277" key="GridCell.Tab.0.center" timestamp="1586945475440">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state width="1792" height="341" key="GridCell.Tab.0.center/0.0.1792.1070@0.0.1792.1070" timestamp="1586779864719" />
-    <state width="896" height="341" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1586781775992" />
+    <state width="1792" height="277" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1586945475440" />
     <state width="896" height="232" key="GridCell.Tab.0.center/0.23.1792.1047@0.23.1792.1047" timestamp="1586691663255" />
-    <state width="896" height="341" key="GridCell.Tab.0.left" timestamp="1586781775992">
+    <state width="1792" height="277" key="GridCell.Tab.0.left" timestamp="1586945475439">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state width="1792" height="341" key="GridCell.Tab.0.left/0.0.1792.1070@0.0.1792.1070" timestamp="1586779864718" />
-    <state width="896" height="341" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1586781775992" />
+    <state width="1792" height="277" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1586945475439" />
     <state width="896" height="232" key="GridCell.Tab.0.left/0.23.1792.1047@0.23.1792.1047" timestamp="1586691663255" />
-    <state width="896" height="341" key="GridCell.Tab.0.right" timestamp="1586781775993">
+    <state width="1792" height="277" key="GridCell.Tab.0.right" timestamp="1586945475440">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state width="1792" height="341" key="GridCell.Tab.0.right/0.0.1792.1070@0.0.1792.1070" timestamp="1586779864719" />
-    <state width="896" height="341" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1586781775993" />
+    <state width="1792" height="277" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1586945475440" />
     <state width="896" height="232" key="GridCell.Tab.0.right/0.23.1792.1047@0.23.1792.1047" timestamp="1586691663256" />
     <state x="397" y="199" key="SettingsEditor" timestamp="1586691569569">
       <screen x="0" y="0" width="1792" height="1120" />

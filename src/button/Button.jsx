@@ -1,6 +1,17 @@
 import React from "react";
 
-const Button = ({ onClick, children }) => (
-  <button onClick={onClick}>{children}</button>
+export const TESTING_IDS = {
+  button: "button",
+};
+
+const Button = ({ onClick, children, testId }) => (
+  <button
+    className={"awesome-button"}
+    onClick={onClick}
+    data-testid={TESTING_IDS.button}
+  >
+    {children}
+  </button>
 );
+
 export default Button;

@@ -1,21 +1,13 @@
 import React from "react";
 import { connect } from "react-redux";
-import { ACTION_TYPES } from "../redux/rootReducer";
+import { ACTION_TYPES } from "../../redux/rootReducer";
+import SimpleList from "../simple-list/SimpleList";
 
 const _List = ({ list, addToList }) => {
   return (
     <div>
       <div>
-        <ul role={"list"}>
-          {list.map(({ value }) => {
-            // https://www.w3.org/WAI/PF/aria/roles#abstract_roles_header
-            return (
-              <li role={"listItem"} key={`li-${value}`}>
-                {value}
-              </li>
-            );
-          })}
-        </ul>
+        <SimpleList list={list} />
       </div>
       <div>
         <button

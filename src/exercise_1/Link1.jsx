@@ -2,7 +2,7 @@ import React from "react";
 /*
   Make sure user can go to google
 */
-const Exercise1 = () => {
+const Link1 = () => {
   return (
     <div>
       <p>
@@ -35,4 +35,4 @@ const Exercise1 = () => {
   );
 };
 
-export default Exercise1;
+export default Link1;

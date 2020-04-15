@@ -1,10 +1,10 @@
 import React from "react";
 import { render } from "@testing-library/react";
-import Exercise1 from "./Link1";
+import Link1 from "./Link1";
 
 describe("Exercise 2", function () {
   it("should be able to go to google", function () {
-    const { getByText } = render(<Exercise1 />);
+    render(<Link1 />);
 
     expect(
       Array.from(document.getElementsByTagName("a")).some((a) =>

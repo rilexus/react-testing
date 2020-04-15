@@ -2,9 +2,9 @@ import React from "react";
 import { render } from "@testing-library/react";
 import { ConenctedList } from "./ConenctedList";
 import { Provider } from "react-redux";
-import { store } from "../redux/store";
+import { store } from "../../redux/store";
 import { createStore } from "redux";
-import { initListState, rootReducer } from "../redux/rootReducer";
+import { initListState, rootReducer } from "../../redux/rootReducer";
 
 const renderWithProvider = (
   ui,

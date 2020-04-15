@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import Input from "../exercise_4/input";
+import Input from "../exercise_3/input";
 
 const ControlledInput = () => {
   const [inputValue, setInputValue] = useState("");
