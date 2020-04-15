@@ -3,22 +3,15 @@ import { render, fireEvent } from "@testing-library/react";
 import ControlledInput from "./ControlledInput";
 
 describe("ControlledInput Component", () => {
-  it("should render children", function () {
-    // 1. arrange
-    // set variables etc.
+  it("should handle change event", function () {
+    const { getByLabelText, getByTestId, rerender } = render(
+      <ControlledInput />
+    );
 
-    // 2. render
+    const input = getByTestId("firstInput");
 
-    // 3. get element
-    // query element to test
+    fireEvent.change(input, { target: { value: "some" } });
 
-    // 4. act
-    // fire events
-
-    // 5. test
-    // expect
-
-    // const { getByLabelText, getByTestId, rerender } = render(<ControlledInput />);
-    expect(true).toBe(true);
+    expect(input.value).toEqual("some");
   });
 });
